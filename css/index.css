@@ -147,7 +147,7 @@ footer nav a {
     display:flex;
 	justify-content: space-between;
     align-items: baseline;
-    margin:0 5%;
+    margin:1% 5%;
 }
 .RH{
     display:flex;
@@ -197,4 +197,53 @@ background-color: teal;
 }
 .middle-content .boxes .box10{
     background-color:dodgerblue;
+}
+.about-page{
+    border-top: 1px black dashed;
+    display:flex;
+    margin: 2% 5%;
+}
+.about-page-working-together{
+    margin:2% 5%;
+
+}
+
+.about-top-paragraph{
+    margin:0 5%;
+    padding: 0% 2%;
+}
+.learn-more-boxes{
+    border-bottom: 1px black dashed;
+    padding: 7% 0%;
+}
+.servicepagebody1{
+    margin-right:4%;
+}
+.servicepagebody2{
+    margin-left: 4%;
+}
+button{
+	background-color: #fdffff;
+	color:black;
+    border:2px solid black;
+    border-radius: 7px;
+    padding: 1% 6%;
+    text-align: center;
+}
+button:hover{
+    background-color: black;
+    border:2px solid black;
+    border-radius: 7px;
+	color:#fdffff;
+    padding: 1% 6%;
+    text-align: center;
+}
+.about-page div section p{
+margin:3% 0%;
+}
+.about-page div section h2{
+    margin:1.5% 0%;
+}
+.about-page-working-together p{
+    margin:2% 0%;
 }
