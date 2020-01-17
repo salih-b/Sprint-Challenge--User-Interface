@@ -247,3 +247,16 @@ margin:3% 0%;
 .about-page-working-together p{
     margin:2% 0%;
 }
+.blogbody{
+    margin:2% 5%;
+}
+.blogbody h2{
+    color: orange;
+    font-size: 30px;
+}
+.blogbody p{
+    margin: 2% 0%;
+}
+.blogpic{
+    height:480px;
+}
